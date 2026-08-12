@@ -1,0 +1,29 @@
+.page_wrpr {
+    max-width: 1300px;
+    margin:10px auto;
+}
+
+.galleryImage {
+    border-style: solid;
+}
+
+.charInfo {
+  display: flex;
+  justify-content: space-between;
+}
+
+.titleBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+body {
+  background-color: grey;
+}
+
+hr {
+    background-color:black;
+    border: none;
+    height: 1px;
+}
