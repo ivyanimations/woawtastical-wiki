@@ -27,3 +27,8 @@ hr {
     border: none;
     height: 1px;
 }
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+}
