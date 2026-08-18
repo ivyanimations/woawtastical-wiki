@@ -1,6 +1,13 @@
 .page_wrpr {
-    max-width: 1300px;
+    max-width: 1350px;
     margin:10px auto;
+    background-color: grey;
+}
+
+.page_contentthing {
+    max-width: 1300px;
+    margin:15px auto;
+    background-color: grey;
 }
 
 .galleryImage {
@@ -19,11 +26,17 @@
 }
 
 body {
-  background-color: grey;
+  background-color: #333333;
 }
 
 hr {
     background-color:black;
+    border: none;
+    height: 1px;
+}
+
+.myawesomecheat {
+    background-color:grey;
     border: none;
     height: 1px;
 }
